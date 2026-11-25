@@ -1,0 +1,11 @@
+# Maven
+target/
+
+# Base H2 (recréée au démarrage)
+data/
+*.mv.db
+*.trace.db
+
+# IntelliJ
+.idea/
+*.iml
